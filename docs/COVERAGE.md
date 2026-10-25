@@ -42,6 +42,7 @@ The user's inventory and rulebook differ: the inventory states 264 population cu
 | Scoring | Sectors, reputation, ambassadors, discoveries, Monoliths, technology tracks, species bonuses, Traitor; stored-resource tie-break | Hidden information is displayed publicly in local UI; exact tied-winner presentation needs expansion |
 | AI | Easy/Normal/Hard; legal orders through same engine; free colonies; exploration/research/refit/build/move/pass; battles/retreat/upkeep | Heuristic, no resource cheats; no expert-strength guarantee or strategic diplomacy |
 | Saves | Autosave + rolling backup; three manual slots; JSON export/import; full RNG/action/combat state | Browser-local, not cloud-synced; hostile/corrupt file validation can be expanded |
+| Context help | Tap/keyboard ? popovers across resources, actions, map, population, technology, blueprints, combat, diplomacy, saves and setup; current-state explanations; next-step banner with navigation to relevant controls | Help pauses automatic processing while open and preserves modal form values; does not alter game rules or save format |
 | Mobile UI | Responsive navy/coral Situation Room interface; navigation; draggable/pinch map; sector inspector; research, blueprints, civilization, council, chronicle | Tested in desktop browser and narrow frame; not on physical Android/iOS devices |
 | Offline | Relative URLs; manifest; static asset service-worker cache | Offline requires a prior successful cached visit and browser support |
 

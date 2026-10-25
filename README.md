@@ -12,6 +12,8 @@ Open the GitHub Pages site, select **Solo vs AI**, choose two to six civilizatio
 
 Choose an action, complete its operations, and select **Finish action**. You may use colony ships during your turn without taking an action. **Pass** ends normal actions for the round, while allowing one-operation Move, Build or Upgrade reactions on later turns. All players passing starts combat.
 
+Tap the **?** buttons throughout the game for explanations and current requirements, including why some actions or technologies are unavailable. The **What to do next** banner follows the active action, unresolved choices, combat and upkeep. Help supports keyboard focus and Escape, and preserves open forms.
+
 The map supports dragging, two-finger pinch zoom and zoom controls. Select a sector to inspect its population and fleet. Explore highlights available frontier spaces. Move requires selecting a ship and then an eligible destination.
 
 The Research screen shows the shared market, discounts, minimum costs and technology effects. Shipyard edits individual component slots and validates energy balance and drives before a blueprint is applied. Existing ships change with their shared blueprint.
