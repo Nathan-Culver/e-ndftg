@@ -1,5 +1,7 @@
 # E:NDftG
 
+**[Play E:NDftG on GitHub Pages](https://nathan-culver.github.io/e-ndftg/)**
+
 A mobile-first, unofficial browser adaptation of **Eclipse: New Dawn for the Galaxy (first edition)**, with a Situation Room style interface, solo AI opponents and portable device saves.
 
 **Status: playable implementation alpha. This is not a verified, complete asset-for-asset or rules-perfect reproduction.** Some printed component values and layouts are reconstructed. See [coverage and remaining work](docs/COVERAGE.md).
